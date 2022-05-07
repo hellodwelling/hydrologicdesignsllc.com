@@ -2,3 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/index</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/store</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/reviews</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/gallery-All</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/gallery-Our-Work</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/gallery-Team-Equipment-</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Irrigation-System-Installation-&-Maintenance</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Irrigation-System-Repair</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Artificial-Turf</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Drainage-Services</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Landscape-Design-and-Installation</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://hydrologicdesignsllc.com/service-Other-Landscaping-Services</loc>
+        <lastmod>2022-05-07</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
